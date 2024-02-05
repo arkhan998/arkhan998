@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://www.pinterest.com/pin/319826011019318035/)](https://github.com/arkhan998)
+[![MasterHead](https://i.imgur.com/1DHOg3Z.gif)](https://github.com/arkhan998)
 
 <h1 align="center"><b>𝒊 𝒂𝒎 𝒎𝒂𝒍𝒊𝒌 𝒔𝒂𝒉𝒂𝒃 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
