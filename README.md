@@ -23,13 +23,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/arkhan998/MALIK-MD](https://github.com/arkhan998/MALIK-MD)
 
-- 📝 I regularly write articles on [𓆩ꨄ︎𓆪𝐌𝐚𝐥𝐢𝐤◆𝗦𝗮𝗛𝗮𝗕𓆩ᥫ᭡𓆪](𓆩ꨄ︎𓆪𝐌𝐚𝐥𝐢𝐤◆𝗦𝗮𝗛𝗮𝗕𓆩ᥫ᭡𓆪)
+- 📝 I regularly write articles on [𓆩ꨄ︎𓆪𝐌𝐚𝐥𝐢𝐤◆𝗦𝗮𝗛𝗮𝗕𓆩ᥫ᭡𓆪](https://i.imgur.com/XBDcjul.jpg )
 
 - 💬 Ask me about **react, you need help me**
 
 - 📫 How to reach me **akk728492@gmail.com**
 
-- 📄 Know about my experiences [𓆩ꨄ︎𓆪𝐌𝐚𝐥𝐢𝐤◆𝗦𝗮𝗛𝗮𝗕𓆩ᥫ᭡𓆪](𓆩ꨄ︎𓆪𝐌𝐚𝐥𝐢𝐤◆𝗦𝗮𝗛𝗮𝗕𓆩ᥫ᭡𓆪)
+- 📄 Know about my experiences [𓆩ꨄ︎𓆪𝐌𝐚𝐥𝐢𝐤◆𝗦𝗮𝗛𝗮𝗕𓆩ᥫ᭡𓆪](https://github.com/arkhan998/MALIK-MD)
 
 - ⚡ Fun fact **𓆩ꨄ︎𓆪𝐌𝐚𝐥𝐢𝐤◆𝗦𝗮𝗛𝗮𝗕𓆩ᥫ᭡𓆪**
 
