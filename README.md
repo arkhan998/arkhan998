@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [MALIK-MD](https://github.com/arkhan998/MALIK-MD)
 
-- 🌱 I’m currently learning **Java script**
+- 🌱 I’m currently learning **Coding**
 
 - 👯 I’m looking to collaborate on [Whatsap Bot](https://github.com/arkhan998/MALIK-MD)
 
@@ -32,6 +32,6 @@
 - 📄 Know about my experiences [𓆩ꨄ︎𓆪𝐌𝐚𝐥𝐢𝐤◆𝗦𝗮𝗛𝗮𝗕𓆩ᥫ᭡𓆪](https://github.com/arkhan998/MALIK-MD)
 
 - ⚡ Fun fact **𓆩ꨄ︎𓆪𝐌𝐚𝐥𝐢𝐤◆𝗦𝗮𝗛𝗮𝗕𓆩ᥫ᭡𓆪**
-<a href="https://wa.me/+923124533358?text=I%20have%20a%20question">
+<a href="https://wa.me/+923124533358?text=I%20Need%20a%20Help">
   <button style="background-color: #25D366; color: white; padding: 12px 20px; border: none; border-radius: 5px; cursor: pointer;"**>Contact Us on WhatsApp</button>**
 </a>
