@@ -32,3 +32,6 @@
 - 📄 Know about my experiences [𓆩ꨄ︎𓆪𝐌𝐚𝐥𝐢𝐤◆𝗦𝗮𝗛𝗮𝗕𓆩ᥫ᭡𓆪](https://github.com/arkhan998/MALIK-MD)
 
 - ⚡ Fun fact **𓆩ꨄ︎𓆪𝐌𝐚𝐥𝐢𝐤◆𝗦𝗮𝗛𝗮𝗕𓆩ᥫ᭡𓆪**
+-  <a href="https://wa.me/+923124533358?text=I%20have%20a%20question">
+  <button style="background-color: #25D366; color: white; padding: 12px 20px; border: none; border-radius: 5px; cursor: pointer;">Contact Us on WhatsApp</button>
+</a>
