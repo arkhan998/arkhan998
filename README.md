@@ -1,37 +1,72 @@
-### Hi there 👋
-[![MasterHead](https://i.imgur.com/1DHOg3Z.gif)](https://github.com/arkhan998)
+# <div align="center">👋 Hi, I'm ARKhan998</div>
 
-<h1 align="center"><b>𝒊 𝒂𝒎 𝒎𝒂𝒍𝒊𝒌 𝒔𝒂𝒉𝒂𝒃 </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+  <img src="https://i.imgur.com/IGdomdV.jpg" width="200" alt="Profile Image"/>
+  <h3>WhatsApp Bot Developer & JavaScript Enthusiast</h3>
+  
+  [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaN8WMOHFxP0SLAKKu0P)
+  [![GitHub followers](https://img.shields.io/github/followers/arkhan998?style=for-the-badge&logo=github)](https://github.com/arkhan998)
+</div>
 
+## About Me
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum.&hearts;++;A+Passionate+Front-End+Developer,;Engineering+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher..<3"></a>
-</p>
+I am passionate about developing innovative WhatsApp bots and JavaScript applications. Currently working on multiple projects to enhance user experience through automation and AI integration.
 
+- 🔭 I'm currently working on **MALIK-MD** and several new WhatsApp bot projects
+- 🌱 Learning advanced AI integrations for bots
+- 👯 Open to collaborate on WhatsApp automation projects
+- 💬 Ask me about WhatsApp bots, JavaScript, and Node.js
 
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+## 🚀 Featured Projects
 
-<p align="left"> <a href="https://twitter.com/arking292" target="blank"><img src="https://img.shields.io/twitter/follow/arking292?logo=twitter&style=for-the-badge" alt="arking292" /></a> </p>
+### 1. MALIK-MD
+A powerful WhatsApp bot with advanced AI capabilities to enhance your messaging experience.
 
-- 🔭 I’m currently working on [MALIK-MD](https://github.com/arkhan998/MALIK-MD)
+- Multi-Device Support
+- AI-powered conversations
+- Media downloaders
+- Logo generation
+- Group management tools
+- Economy system
+- Many more features...
 
-- 🌱 I’m currently learning **Coding**
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/arkhan998/MALIK-MD)
 
-- 👯 I’m looking to collaborate on [Whatsap Bot](https://github.com/arkhan998/MALIK-MD)
+### 2. Upcoming Projects
+Working on new WhatsApp bot frameworks from scratch with improved architecture and performance.
 
-- 🤝 I’m looking for help with [MALIK-MD](wa.me/+923124533358)
+- Enhanced AI capabilities
+- Better resource management
+- More interactive features
+- Cross-platform compatibility
+- Improved stability
 
-- 👨‍💻 All of my projects are available at [https://github.com/arkhan998/MALIK-MD](https://github.com/arkhan998/MALIK-MD)
+## 💻 Skills
 
-- 📝 I regularly write articles on [𓆩ꨄ︎𓆪𝐌𝐚𝐥𝐢𝐤◆𝗦𝗮𝗛𝗮𝗕𓆩ᥫ᭡𓆪](https://i.imgur.com/XBDcjul.jpg )
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![API Development](https://img.shields.io/badge/API-Development-0078D7?style=for-the-badge)
+![WhatsApp Bot Development](https://img.shields.io/badge/WhatsApp-Bot_Dev-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
-- 💬 Ask me about **react, you need help me**
+## 📊 GitHub Stats
 
-- 📫 How to reach me **akk728492@gmail.com**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arkhan998&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
-- 📄 Know about my experiences [𓆩ꨄ︎𓆪𝐌𝐚𝐥𝐢𝐤◆𝗦𝗮𝗛𝗮𝗕𓆩ᥫ᭡𓆪](https://github.com/arkhan998/MALIK-MD)
+## 🔗 Connect With Me
 
-- ⚡ Fun fact **𓆩ꨄ︎𓆪𝐌𝐚𝐥𝐢𝐤◆𝗦𝗮𝗛𝗮𝗕𓆩ᥫ᭡𓆪**
-<a href="https://wa.me/+923124533358?text=I%20Need%20a%20Help">
-  <button style="background-color: #25D366; color: white; padding: 12px 20px; border: none; border-radius: 5px; cursor: pointer;"**>Contact Us on WhatsApp</button>**
-</a>
+- WhatsApp Channel: [Join Now](https://whatsapp.com/channel/0029VaN8WMOHFxP0SLAKKu0P)
+- GitHub: [@arkhan998](https://github.com/arkhan998)
+
+## 🌟 Support My Work
+
+If you find my projects helpful, consider giving them a star on GitHub and sharing with others who might benefit!
+
+---
+
+<div align="center">
+  <i>"Building the future of WhatsApp interaction, one bot at a time."</i>
+</div>
