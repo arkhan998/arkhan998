@@ -8,65 +8,45 @@
   [![GitHub followers](https://img.shields.io/github/followers/arkhan998?style=for-the-badge&logo=github)](https://github.com/arkhan998)
 </div>
 
-## About Me
+Welcome to my GitHub profile!  
+I am passionate about web development, automation, and AI-driven solutions.
 
-I am passionate about developing innovative WhatsApp bots and JavaScript applications. Currently working on multiple projects to enhance user experience through automation and AI integration.
+## 🚀 About Me
+- 🌐 Aspiring Web Developer
+- 🤖 Baileys Bot Developer (WhatsApp automation)
+- 🐛 Bug Fixing Enthusiast
+- 🤓 Always learning new AI tools & technologies
+- 💡 Love contributing to open-source
 
-- 🔭 I'm currently working on **MALIK-MD** and several new WhatsApp bot projects
-- 🌱 Learning advanced AI integrations for bots
-- 👯 Open to collaborate on WhatsApp automation projects
-- 💬 Ask me about WhatsApp bots, JavaScript, and Node.js
+## 🛠️ Skills
+- JavaScript / Node.js
+- Web Technologies (HTML, CSS, JS)
+- Baileys WhatsApp API
+- Git & GitHub
+- Problem Solving & Debugging
 
-## 🚀 Featured Projects
+## 📂 My Projects
+- [MALIK-MD](https://github.com/arkhan998/MALIK-MD): WhatsApp Baileys Bot with unique features
+- [DULHAN-MD](https://github.com/arkhan998/DULHAN-MD): Another powerful WhatsApp Bot project
 
-### 1. MALIK-MD
-A powerful WhatsApp bot with advanced AI capabilities to enhance your messaging experience.
+## 📈 GitHub Stats
+![Arkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkhan998&show_icons=true&theme=radical)
 
-- Multi-Device Support
-- AI-powered conversations
-- Media downloaders
-- Logo generation
-- Group management tools
-- Economy system
-- Many more features...
+## 🌱 Currently Learning
+- Modern Web Development (React, Next.js)
+- Advanced Baileys features
+- Latest AI tools & APIs
 
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/arkhan998/MALIK-MD)
+## 📫 Contact Me
 
-### 2. Upcoming Projects
-Working on new WhatsApp bot frameworks from scratch with improved architecture and performance.
-
-- Enhanced AI capabilities
-- Better resource management
-- More interactive features
-- Cross-platform compatibility
-- Improved stability
-
-## 💻 Skills
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![API Development](https://img.shields.io/badge/API-Development-0078D7?style=for-the-badge)
-![WhatsApp Bot Development](https://img.shields.io/badge/WhatsApp-Bot_Dev-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arkhan998&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-## 🔗 Connect With Me
-
-- WhatsApp Channel: [Join Now](https://whatsapp.com/channel/0029VaN8WMOHFxP0SLAKKu0P)
-- GitHub: [@arkhan998](https://github.com/arkhan998)
-
-## 🌟 Support My Work
-
-If you find my projects helpful, consider giving them a star on GitHub and sharing with others who might benefit!
+- 📸 [Instagram](https://www.instagram.com/ataurrehman.khan.3557?igsh=Z21wNHQ0MnBnMWVo)
+- 💬 [WhatsApp Number](https://wa.me/923322964709)
+- 🐦 [Twitter](https://x.com/ARKing292?t=khDrJkGOY1tQEA1vYWzRVA&s=09)
+- 🔗 [WhatsApp Channel](https://whatsapp.com/channel/0029VaN8WMOHFxP0SLAKKu0P)
+- 💬 [WhatsApp Group](https://chat.whatsapp.com/DFPl94ASqoHL5jdeZ1eFJG)
+- 🌐 [Portfolio Website](https://malik-portfolio-web-rust.vercel.app/)
 
 ---
 
-<div align="center">
-  <i>"Building the future of WhatsApp interaction, one bot at a time."</i>
-</div>
+Thanks for visiting my profile! 😊  
+Let's build something amazing together!
