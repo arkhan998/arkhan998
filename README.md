@@ -11,7 +11,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://i.imgur.com/IGdomdV.jpg" width="160" style="border-radius: 50%; border: 3px solid #00ffcc; box-shadow: 0px 0px 15px #00ffcc;" alt="MALIK SAHAB Profile">
+  <img src="https://files.catbox.moe/bbnxh2.png" width="160" style="border-radius: 50%; border: 3px solid #00ffcc; box-shadow: 0px 0px 15px #00ffcc;" alt="MALIK SAHAB Profile">
 </div>
 
 <br/>
