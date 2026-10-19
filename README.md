@@ -48,7 +48,6 @@
 | Project Matrix | System Description | Status |
 | :--- | :--- | :--- |
 | 🤖 **[MALIK-MD](https://github.com/arkhan998/MALIK-MD)** | Multi-device WhatsApp Bot with robust AI automation logic. | 🟢 Active |
-| 💍 **[DULHAN-MD](https://github.com/arkhan998/DULHAN-MD)** | High-speed automated messaging architecture. | 🟢 Active |
 | 📦 **MALIK-ERP** | Comprehensive inventory & billing management with a clean, professional English UI. | 🟡 In Development |
 
 ---
