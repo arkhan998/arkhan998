@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029VaN8WMOHFxP0SLAKKu0P"><img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel"></a>
+  <a href="https://whatsapp.com/channel/0029VbAf3sx3bbUy90Z9K703"><img src="https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Channel"></a>
   <a href="https://github.com/arkhan998"><img src="https://img.shields.io/badge/GitHub_Followers-0D1117?style=for-the-badge&logo=github&logoColor=00ffcc" alt="GitHub Followers"></a>
 </div>
 
@@ -30,6 +30,8 @@
 - 🤖 **Specialty:** Multi-device Baileys Architecture & Scripting
 - ⚙️ **Focus:** ERP Systems, Hardware Recovery & Deep Integrations
 - 🎯 **Mission:** Designing highly functional tools with modern, professional aesthetics
+- 🏆 **Certified:** Google AI Professional Certificate + Prompting Essentials (Coursera, 2026)
+- 💼 **Service:** WhatsApp Business Automation for shops & businesses — bots that reply, take orders and manage stock on their own
 
 ---
 
@@ -47,8 +49,11 @@
 
 | Project Matrix | System Description | Status |
 | :--- | :--- | :--- |
-| 🤖 **[MALIK-MD](https://github.com/arkhan998/MALIK-MD)** | Multi-device WhatsApp Bot with robust AI automation logic. | 🟢 Active |
-| 📦 **MALIK-ERP** | Comprehensive inventory & billing management with a clean, professional English UI. | 🟡 In Development |
+| 🤖 **[MALIK-MD](https://github.com/arkhan998/MALIK-MD)** | Multi-device WhatsApp Bot — **480+ commands**: AI tools, downloaders, business toolkit (invoices, orders, stock), Jadoo keyword auto-reply & group guard. | 🟢 Active |
+| 📦 **MALIK-ERP** | Inventory & billing management platform for real businesses. | 🟡 In Development |
+| 🛒 **MALIK Digital Store** | Full e-commerce web app — manual JazzCash/Easypaisa payments, admin panel & secure digital delivery. | 🟢 Built |
+| 🎃 **TM HORROR ZONE** | AI horror shorts channel (Facebook) — cinematic vertical horror stories. | 🟢 Active |
+| 🌐 **[Portfolio](https://atta-portfolio-ten.vercel.app)** | My live portfolio & services site. | 🟢 Live |
 
 ---
 
@@ -64,7 +69,7 @@
 ### 📫 Establish Connection
 
 <div align="center">
-  <a href="https://malik-portfolio-web-rust.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=Vercel&logoColor=00ffcc" alt="Portfolio" /></a>
+  <a href="https://atta-portfolio-ten.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=Vercel&logoColor=00ffcc" alt="Portfolio" /></a>
   <a href="https://wa.me/923322964709"><img src="https://img.shields.io/badge/Direct_Comms-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://www.instagram.com/ataurrehman.khan.3557?igsh=Z21wNHQ0MnBnMWVo"><img src="https://img.shields.io/badge/Visuals-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://x.com/ARKing292?t=khDrJkGOY1tQEA1vYWzRVA&s=09"><img src="https://img.shields.io/badge/Updates-000000?style=for-the-badge&logo=x&logoColor=00ffcc" alt="X" /></a>
